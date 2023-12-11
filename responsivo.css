@@ -1,0 +1,22 @@
+@media (max-width: 896px) {
+    .logo {
+        display: none
+    }
+
+    .list-wrapper {
+        gap: 1px;
+        padding: 7px;
+    }
+
+    header {
+        border-radius: 0 0 15px 15px;
+    }
+
+    .divs-container {
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+        width: 80%;
+        margin-bottom: 20px;
+    }
+};
